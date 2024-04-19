@@ -1,1 +1,1 @@
-# mucsic-player
+# mini-player
